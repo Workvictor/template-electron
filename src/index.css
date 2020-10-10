@@ -1,0 +1,20 @@
+:root {
+  --color-text-main: rgb(225, 226, 171);
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 8px;
+  max-width: unset;
+  color: var(--color-text-main);
+}
+
+body * {
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  color: hsl(115, 76%, 53%);
+}
